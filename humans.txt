@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anders Bray anders.bray@none.com	notwitterFaceMan
 
 # THANKS
 
