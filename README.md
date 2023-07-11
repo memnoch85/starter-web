@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 
 ### Copyright
 
-Some Copyright notice
+Some Copyright notice2.
