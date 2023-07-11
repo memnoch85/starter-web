@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-## 2XX Modified check
+## 2XXX Modified check
