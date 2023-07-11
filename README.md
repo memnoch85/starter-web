@@ -10,4 +10,6 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-## 2XXX Modified check
+### Copyright
+
+Some Copyright notice
