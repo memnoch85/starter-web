@@ -12,5 +12,5 @@ Then moreChanges from my feature branch 2
 ## How To Contribute
 
 ### Copyright
-
+All Rights Reserved.
 Some Copyright notice.
