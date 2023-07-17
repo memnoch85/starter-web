@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 ## Deployment 
 Adding a line for rebase example
 Then moreChanges from my feature branch 2
+testing stashing
 ## How To Contribute
 
 ### Copyright
